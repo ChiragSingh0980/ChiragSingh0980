@@ -1,5 +1,15 @@
-# 💫 About Me:
-# Chirag Singh<br><br>- **Email:** chiragsingh9725@gmail.com<br>- **Phone:** +91 7318349408<br>- **LinkedIn:** [linkedin.com/in/chiragsingh97](https://www.linkedin.com/in/chiragsingh97)<br>- **GitHub:** [github.com/ChiragSingh0980](https://github.com/ChiragSingh0980)<br><br>## About Me<br><br>I am a computer science student with a passion for web development and data analytics. I have experience in various programming languages and technologies, including Python, SQL, Java, HTML, CSS, PHP, and JavaScript. I also have a strong foundation in version control with Git/GitHub.<br><br>
+# 💫 About Me
+
+### Chirag Singh
+
+- **Email:** chiragsingh9725@gmail.com
+- **LinkedIn:** [linkedin.com/in/chiragsingh97](https://www.linkedin.com/in/chiragsingh97)
+- **GitHub:** [github.com/ChiragSingh0980](https://github.com/ChiragSingh0980)
+
+## About Me
+
+I am a computer science student with a passion for web development and data analytics. I have experience in various programming languages and technologies, including Python, SQL, Java, HTML, CSS, PHP, and JavaScript. I also have a strong foundation in version control with Git/GitHub.
+
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ThakurGaming) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chiragsingh97/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCBUgyT217tyRJnUCbjT5iaA) 
 
